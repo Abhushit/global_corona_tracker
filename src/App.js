@@ -1,8 +1,5 @@
 import React from 'react';
 import coronaImage from './images/corona-logo.png';
-// import Cards from './components/Cards/Cards';
-// import Chart from './components/Chart/Chart';
-// import CountryPicker from './components/CountryPicker/CountryPicker';
 
 import { Cards, Chart, CountryPicker } from './components';
 import { fetchData } from './api';
